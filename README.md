@@ -25,23 +25,23 @@ Bharat Tour is a full-stack travel planning web application that helps users exp
 * Node.js
 * Express.js
 
-## Screenshots
+## screenshots
 
 ### Home Page
 
-![Home](Screenshots/home-page.png)
+![Home](screenshots/home-page.png)
 
 ### Places Explorer
 
-![Places](Screenshots/places-page.png)
+![Places](screenshots/places-page.png)
 
 ### Trip Planner
 
-![Trip Planner](Screenshots/trip-planner.png)
+![Trip Planner](screenshots/trip-planner.png)
 
 ### Generated Travel Plan
 
-![Travel Plan](Screenshots/generated-itinerary.png)
+![Travel Plan](screenshots/generated-itinerary.png)
 
 ## Installation
 
