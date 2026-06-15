@@ -1,0 +1,99 @@
+.planner-container {
+  min-height: 100vh;
+  background: #f5f5f5;
+  padding: 120px 20px 50px;
+}
+
+.planner-card {
+  max-width: 750px;
+  margin: auto;
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.planner-title {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  color: #111;
+}
+
+.planner-subtitle {
+  text-align: center;
+  color: #666;
+  margin-bottom: 30px;
+  font-size: 16px;
+}
+
+.planner-input {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  font-size: 16px;
+  outline: none;
+}
+
+.planner-input:focus {
+  border-color: black;
+}
+
+.planner-btn {
+  width: 100%;
+  padding: 15px;
+  background: black;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.planner-btn:hover {
+  opacity: 0.9;
+}
+
+.loading-text {
+  text-align: center;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.result-card {
+  max-width: 900px;
+  margin: 40px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.result-card h2 {
+  margin-bottom: 20px;
+}
+
+.result-card pre {
+  white-space: pre-wrap;
+  font-family: inherit;
+  line-height: 1.7;
+}
+
+.planner-clear-btn {
+  width: 100%;
+  padding: 14px;
+  margin-top: 10px;
+  background: white;
+  color: black;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.planner-clear-btn:hover {
+  background: #f5f5f5;
+}
